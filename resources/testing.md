@@ -8,3 +8,4 @@ Tools and resources for testing, debugging and monitoring software.
 | Vitest | Yes | Fast JavaScript and TypeScript testing | [Visit](https://vitest.dev/) |
 | Jest | Yes | JavaScript testing | [Visit](https://jestjs.io/) |
 | Lighthouse | Yes | Web performance and quality audits | [Visit](https://developer.chrome.com/docs/lighthouse/) |
+| Agent QA | Yes; model/browser/device costs vary | AI-driven web, Android and iOS regression tests | [Visit](https://vostride.com/docs/agent-qa) |
