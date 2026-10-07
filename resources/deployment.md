@@ -8,3 +8,4 @@ Platforms for deploying applications, APIs and websites.
 | Netlify | Yes | Web applications and static sites | [Visit](https://www.netlify.com/) |
 | Render | Yes | Web services and APIs | [Visit](https://render.com/) |
 | Cloudflare Pages | Yes | Fast static and frontend deployment | [Visit](https://pages.cloudflare.com/) |
+| GitHub Pages | Yes | Static websites and project documentation | [Visit](https://pages.github.com/) |
